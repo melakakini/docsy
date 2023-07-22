@@ -23,6 +23,13 @@
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
 <script>
+  window.$docsify = {
+    coverpage: true
+  }
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>    
+
+<script>
   if (typeof navigator.serviceWorker !== 'undefined') {
     navigator.serviceWorker.register('sw.js')
   }
