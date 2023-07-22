@@ -2,14 +2,12 @@
 
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# Pengenalan Buku Alkitab <small>1.0</small>
 
-> A magical documentation site generator. which was started with a "lebih kecil sign"
-> Here's another
+> oleh saudara Tong Kwan Lock
 
-- This is with a minus sign
-- This too is another minus sign
-- Hope to work on cover page graphics
-
+- Mudah difahami
+- Senang dibaca
+- Percuma untuk semua.
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#docsify)
