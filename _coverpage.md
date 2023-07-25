@@ -4,7 +4,7 @@
 
 # Pengenalan Buku Alkitab <small>1.0</small>
 
-> oleh saudara Tong Kwan Lock
+> oleh saudara Tong Kwang Lock
 
 - Mudah difahami
 - Senang dibaca
