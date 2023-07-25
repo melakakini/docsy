@@ -9,5 +9,6 @@
 - Mudah difahami
 - Senang dibaca
 - Percuma untuk semua.
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+- 
+[Muka Pertama](https://melakakini.github.io/docsy/)
+
